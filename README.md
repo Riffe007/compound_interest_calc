@@ -1,5 +1,5 @@
 # compound_interest_calc
-# Compound interest calc written in python
+Compound interest calc written in python
 # Compound Interest Calculator
 This is a simple calculator that allows you to calculate the compound interest on an investment.
 
